@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isabela</h1>
+<h1 align="center">Hello, I'm Isabela</h1>
 <h3 align="center">- I'm now studying and improving my knowledge on fullstack development, learning about database and starting projects with different technologies.</h3>
 
 - 📫 How to reach me **duartemorenoisabela@gmail.com**
