@@ -5,7 +5,7 @@
 
 - 🎓 Studying System Analysis and Development at **Fatec PG**
 - 🌱 Learning **Java, Javascript, Vue.JS, SQL**
-- 💼 Currently working as Trainee Systems Analyst at **T2S Tecnologia**
+- 💼 Currently working as Systems Analyst at **T2S Tecnologia**
 - 📫 How to reach me: **duartemorenoisabela@gmail.com**
 
 
